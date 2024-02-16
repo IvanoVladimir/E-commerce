@@ -18,7 +18,7 @@
 
 **Название:** *e-commerce*
 
-**Системные требования для запуска:**
+**Стэк:**
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-424242?style=for-the-badge&logo=Jupyter&logoColor=BA7400)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/python-1C648D?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
