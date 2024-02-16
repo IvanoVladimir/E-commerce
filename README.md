@@ -22,11 +22,12 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-424242?style=for-the-badge&logo=Jupyter&logoColor=BA7400)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/python-1C648D?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Datetime](https://img.shields.io/badge/Datetime-1C648D?logo=Datetime&logoColor=ffdd54&style=for-the-badge)](https://docs.python.org/3/library/datetime.html)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/Numpy-00232B.svg?style=for-the-badge&logo=Numpy&logoColor=00A9D2)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-00B1DC?logo=matplotlib&logoColor=white&style=for-the-badge)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0E174A?logo=seaborn&logoColor=white&style=for-the-badge)](https://seaborn.pydata.org/)
-[![Datetime](https://img.shields.io/badge/Datetime-1C648D?logo=Datetime&logoColor=ffdd54&style=for-the-badge)](https://docs.python.org/3/library/datetime.html)
+
 
 ---
 
